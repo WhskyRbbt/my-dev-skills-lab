@@ -1,0 +1,54 @@
+.text-center {
+    background-color: green;
+    color: white;
+    opacity: 55%;
+    font-size: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 5px;
+    height: 4rem;
+  }
+  
+  .container {
+    width: 50%;
+    height: 50%;
+    margin: 20rem;
+  }
+  
+  .input-row {
+    display: flex;
+    padding-top: 1rem;
+  }
+  
+  .add-skill {
+    border: 0;
+    background-color: white;
+  }
+  
+  .input-skill {
+    flex: 1;
+  }
+  
+  .new-row {
+    display: flex;
+    color: orange;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  .row-example {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    display: flex;
+  
+  }
+  
+  .skills-text {
+    padding-left: 1rem;
+  }
+  
+  .remove-button {
+    opacity: 70%;
+    background-color: red;
+    color: white;
+    border: 0;
+  }
